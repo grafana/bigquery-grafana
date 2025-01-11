@@ -149,3 +149,10 @@ todo.txt
 # dist directory
 dist/
 provisioning/
+
+# playwright
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+playwright/.auth/
